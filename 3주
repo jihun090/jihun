@@ -85,7 +85,7 @@ int main() {
 
 
 
-    //재고 부족 확인
+   
     for (int i = 0; i < a; i++) { 
         if (inventory_list[i] <= 2) {
             printf("상품 ID %d:재고부족(%d)\n", i, inventory_list[i]);
