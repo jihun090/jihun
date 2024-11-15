@@ -21,7 +21,7 @@ int main()
         }else if(menu == 2){
             
         }else if(menu == -1){
-            printf("프로그램을 종료합니다.\n")
+            printf("프로그램을 종료합니다.\n");
         }
     }while(menu > 0);
 
